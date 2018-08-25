@@ -212,9 +212,9 @@ namespace WebAppiCore2.Controllers
 }
 ```
 
-5.  Donwload Poastman API (https://www.getpostman.com/) and test CRUD Methods 
-    a.  http://localhost:portnumber/api/ticket
+5.  Donwload Poastman API (https://www.getpostman.com/) and test CRUD Methods \
+    a.  http://localhost:portnumber/api/ticket \
     b. Open Postman copy-paste the link and test the CRUD methods
     
-6.  You can also use Swagger to test Web Api CRUD methods
+6.  You can also use Swagger to test Web Api CRUD methods \
     a.  http://localhost:postnumber/swagger/index.html
