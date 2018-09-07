@@ -217,4 +217,4 @@ namespace WebAppiCore2.Controllers
     b. Open Postman copy-paste the link and test the CRUD methods
     
 6.  You can also use Swagger to test Web Api CRUD methods \
-    a.  http://localhost:postnumber/swagger/index.html
+    a.  http://localhost:portnumber/swagger/index.html
