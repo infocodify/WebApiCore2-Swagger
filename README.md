@@ -1,7 +1,7 @@
 # WebApiCore2-Swagger
 Web Api Crud operations and Swagger 
 
-1.  Create Web Api Core 2 Project and install Swashbuckle.AspNetCore usig Nuget Package
+1.  Create Web Api Core 2 Project and install Swashbuckle.AspNetCore using Nuget Package
 
 2.  Define the use In Memory Database and enable Swagger in your Startup.cs file 
 ```csharp
